@@ -1,22 +1,22 @@
-<h1 align="center">Hola, I'm Arsh 👋</h1> 
+<h1 align="center">Hey, I'm Arsh Lakhina👋</h1> 
 
 <div align = "center">
  
-[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://kunal9155.github.io/kunal-portfolio/)
-![Visitor Count](https://komarev.com/ghpvc/?username=Kunal9155&color=blue&logo=flat)
-[![Linkedin](https://img.shields.io/badge/Kunal9155-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/kunal-arora-410098211/)](https://www.linkedin.com/in/kunal-arora-410098211/)
-[![Instagram](https://img.shields.io/badge/Kunal9155-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/sbajaj_02/)](https://www.instagram.com/kunal.9155/)
+[![Portfolio](https://img.shields.io/website?color=blue&label=Portfolio&style=flat&up_message=Online&url=https://www.facebook.com)](https://arshlakhina.github.io/Portfolio/#)
+![Visitor Count](https://komarev.com/ghpvc/?username=arshlakhina&color=blue&logo=flat)
+[![Linkedin](https://img.shields.io/badge/arshlakhina-black?style=flat&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/arsh-lakhina-28a6501bb/)](https://www.linkedin.com/in/arsh-lakhina-28a6501bb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIMZSGOGdSGSCfb6NGSb%2Btw%3D%3D)
+[![Instagram](https://img.shields.io/badge/arshlakhina-black?style=flat&logo=Instagram&logoColor=pink&link=https:https:https:/www.instagram.com/arshlakhina/)](https://www.instagram.com/arsh_lakhina/?hl=en)
 </div>
 
 <p align="center" ><img 
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 <br/>
 
-- 🔭 I’m currently working on  brushing up my skills
-- 🌱 I’m currently learning  ReactJs
-- 👯 I’m looking to collaborate on  JavaScript and Frontend projects
-- 💬 Ask me about C, JavaScript
-- 📫 How to reach me: <a href="">9155kunalarora@gmail.com</a>
+- 🔭 I’m currently trying my hands on programming and development skills.
+- 🌱 I’m currently learning ReactJs.
+- 👯 I’m looking to collaborate on JavaScript and Frontend projects.
+- 💬 Ask me about C/C++, HTML, CSS, JavaScript.
+- 📫 How to reach me: <a href="https://mail.google.com/mail/u/0/?tab=rm#inbox?compose=new">arshlakhina2002@gmail.com</a>
 
 
 ## Working Stack:
@@ -32,21 +32,21 @@
   
   ### Trophies
 
-  [![Kunal's Trophy](https://github-profile-trophy.vercel.app/?username=Kunal9155&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=sanchitbajaj02&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)git
+  [![Kunal's Trophy](https://github-profile-trophy.vercel.app/?username=arshlakhina&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)](https://github-profile-trophy.vercel.app/?username=arshlakhina&row=1&column=7&margin-w=5&no-frame=true&theme=dracula)git
 
   ### Github Stats
 
-  [![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunal9155&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/Sanchitbajaj02?tab=repositories)
+  [![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=arshlakhina&show_icons=true&count_private=true&include_all_commits=true&theme=dracula)](https://github.com/arshlakhina?tab=repositories)
 
   ### Top Languages
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kunal9155&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=sanchitbajaj02&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arshlakhina&count_private=true&include_all_commits=true&layout=compact&theme=dracula)](https://github-readme-stats.vercel.app/api/top-langs/?username=arshlakhina&count_private=true&include_all_commits=true&layout=compact&theme=dracula)
 
   ### Streak
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kunal9155&theme=dracula)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=arshlakhina&theme=dracula)](https://git.io/streak-stats)
 
   ### Graph
-  [![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal9155&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=sanchitbajaj02&theme=dracula)
+  [![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=arshlakhina&theme=dracula)](https://activity-graph.herokuapp.com/graph?username=arshlakhina&theme=dracula)
 
 </div>
